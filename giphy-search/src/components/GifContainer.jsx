@@ -1,4 +1,4 @@
-function GifContainer() {
+function GifContainer({ gif }) {
     return (
         <ul>
 
